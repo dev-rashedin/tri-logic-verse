@@ -1,0 +1,16 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Go
+*.exe
+*.out
+*.test
+
+# OS
+.DS_Store
+Thumbs.db
