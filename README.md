@@ -2,7 +2,6 @@
 
 Learn JS, Python, and Go with examples, comparisons, problem-solving, and mini-projects.
 
----
 
 ## Overview
 
@@ -18,7 +17,6 @@ Here you'll find:
 - Example solutions to the same problem in all three languages
 - Dedicated folders to **learn, explore under-the-hood, solve problems, and practice mini-projects**
 
----
 
 ## History & Purpose
 
