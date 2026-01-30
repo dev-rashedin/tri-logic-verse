@@ -25,18 +25,19 @@ Solve each problem in **three different languages** to improve fluency, spot lan
 
 ## 🟢 Easy (16 Problems)
 
-1. **Find Grades**  
-   Given a score or marks, determine the grade using conditional logic.
-
-2. **Find Largest Number**  
-   Find the largest number among given values without using built-in helpers.
-
-3. **Recursion Basics**  
-   Solve a simple problem using recursion (e.g., factorial or countdown) to understand base cases and function calls.
-
-4. **Add Two Numbers**  
+1. **Add Two Numbers**  
    Take two numbers as input and print their sum.  
    *(Beginner-friendly warm-up problem)*
+
+2. **Find Grades**  
+   Given a score or marks, determine the grade using conditional logic.
+
+3. **Find Largest Number**  
+   Find the largest number among given values without using built-in helpers.
+
+4. **Recursion Basics**  
+   Solve a simple problem using recursion (e.g., factorial or countdown) to understand base cases and function calls.
+
 
 5. **Even or Odd Without `%`**  
    Determine whether a number is even or odd **without using the modulus operator**.
