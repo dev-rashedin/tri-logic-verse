@@ -1,5 +1,5 @@
 // 5. **Even or Odd Without `%`**  
-//    Determine whether a number is even or odd **without using the modulus operator**.
+//    Determine whether a number is even or odd.
 
 
 // Using % operator
