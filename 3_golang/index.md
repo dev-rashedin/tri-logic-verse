@@ -1,1 +1,0 @@
-## Golang In Detail
